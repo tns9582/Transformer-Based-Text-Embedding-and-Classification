@@ -1,6 +1,6 @@
 # Semantic Intelligence: Transformer-Based Text Embedding and Classification
 
-This project implements a custom transformer-based model to learn meaningful embeddings of news articles and perform multi-class classification using the AG News dataset. It demonstrates how deep learning architectures—particularly attention and positional encoding—can be used to capture semantic relationships in text, evaluate classification accuracy, and explore interpretable and reversible embeddings.
+This project implements a custom transformer-based model to learn meaningful embeddings of news articles and perform multi-class classification using the AG News dataset. It demonstrates how deep learning architectures, particularly attention and positional encoding, can be used to capture semantic relationships in text, evaluate classification accuracy, and explore interpretable and reversible embeddings.
 
 ## Project Overview
 
